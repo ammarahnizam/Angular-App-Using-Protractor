@@ -1,0 +1,1 @@
+{"description":"SHOULD delete todo item(s) successfully|Verify Todo Item is getting deleted successfully","passed":true,"pending":false,"os":"Mac OS X","instanceId":64499,"browser":{"name":"chrome","version":"88.0.4324.96"},"message":"Passed","browserLogs":[],"screenShotFile":"00ea00d0-0011-00ac-004a-00d100df0062.png","timestamp":1611473924582,"duration":700}
