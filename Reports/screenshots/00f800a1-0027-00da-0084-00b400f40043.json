@@ -1,0 +1,1 @@
+{"description":"SHOULD show a number 0 in completed count|Verify Todo Item is getting deleted upon Clear Complete","passed":true,"pending":false,"os":"Mac OS X","instanceId":64499,"browser":{"name":"chrome","version":"88.0.4324.96"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"00f800a1-0027-00da-0084-00b400f40043.png","timestamp":1611473923365,"duration":820}
