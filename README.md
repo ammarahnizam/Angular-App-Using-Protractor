@@ -21,3 +21,4 @@ Tools:
 ===================
 IDE: Visual Studio Code
 Language Used: Javascript
+Automation Framework: Protractor
